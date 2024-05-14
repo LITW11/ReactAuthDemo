@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAuthDemo.Web", "ReactAuthDemo.Web\ReactAuthDemo.Web.csproj", "{1C921800-73F7-4B49-8951-41BED0021071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactAuthDemo.Data", "ReactAuthDemo.Data\ReactAuthDemo.Data.csproj", "{99CD8BB8-7EDB-4ACA-AB3F-3BB29A313A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C921800-73F7-4B49-8951-41BED0021071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C921800-73F7-4B49-8951-41BED0021071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C921800-73F7-4B49-8951-41BED0021071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C921800-73F7-4B49-8951-41BED0021071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CD8BB8-7EDB-4ACA-AB3F-3BB29A313A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CD8BB8-7EDB-4ACA-AB3F-3BB29A313A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CD8BB8-7EDB-4ACA-AB3F-3BB29A313A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CD8BB8-7EDB-4ACA-AB3F-3BB29A313A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
