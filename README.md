@@ -17,5 +17,5 @@ or, you can add the following line to your `<ItemGroup>` section of your `.cspro
 Then, add the following lines of code to your `Program.cs` file within the **web** project:
 
 https://github.com/LITW11/ReactAuthDemo/blob/master/ReactAuthDemo.Web/Program.cs#L7
-https://github.com/LITW11/ReactAuthDemo/blob/master/ReactAuthDemo.Web/Program.cs#L13-L26
+[https://github.com/LITW11/ReactAuthDemo/blob/master/ReactAuthDemo.Web/Program.cs#L13-L26](https://github.com/LITW11/ReactAuthDemo/blob/master/ReactAuthDemo.Web/Program.cs#L13-L28)
 https://github.com/LITW11/ReactAuthDemo/blob/master/ReactAuthDemo.Web/Program.cs#L41-L43
